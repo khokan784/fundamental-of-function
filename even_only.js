@@ -26,5 +26,6 @@ function sumOfEvenNumber(numbers){
     return sum;
 }
 const numbers = [2,5,8,7,3,4];
-const sum = sumOfEvenNumber(numbers)
-console.log('sum of the even number is :', sum);
+// const sum = sumOfEvenNumber(numbers)
+// console.log('sum of the even number is :', sum);
+
